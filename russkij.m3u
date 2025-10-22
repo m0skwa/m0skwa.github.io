@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pervyj kanal" tvg-name="Первый канал" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Perwy-kanal-Logo.svg/2048px-Perwy-kanal-Logo.svg.png" group-title="Новости",Первый канал
+https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSAzOjU0OjMxIFBNJmhhc2hfdmFsdWU9NTVyNHAvcFIyejVoaDMzMVlQaGRQZz09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1 tvg-id="rossija 1" tvg-name="Россия 1" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/640px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Новости",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="rossija 24" tvg-name="Россия 24" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/330px-Rossiya-24_Logo.svg.png" group-title="Новости",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/250px-NTV_logo_2003.svg.png" group-title="Новости",НТВ
+https://cdn.ntv.ru/ntv0_foreign/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="swesda" tvg-name="Звезда" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/263px-Zvezda_logo.svg.png" group-title="Новости",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ren tv" tvg-name="Рен ТВ" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/250px-REN_TV_logo_2017.svg.png" group-title="Новости",Рен ТВ
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/250px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Новости",Мир
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png/330px-Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png" group-title="Развлекательные",СТС
+https://s.viks.tv/LTuOMcegSRDBPFf1mqieZQ/591/1761168989/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_tnt.png/330px-Logo_tnt.png" group-title="Развлекательные",ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+
+#EXTINF:-1 tvg-id="5 kanal" tvg-name="Пятый канал" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/250px-5-tv_logo_%282023%29.svg.png" group-title="Развлекательные",Пятый канал
+https://s87.glaz.tv:8082/liveg/pyatyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA0OjU0OjA2IFBNJmhhc2hfdmFsdWU9WDdtb2tsNTQvYjY2b3ZXSmRuZ3M5QT09JnZhbGlkbWludXRlcz0yMDA=
+
+
+#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_KARUSEL_2023.png/330px-Logo_KARUSEL_2023.png" group-title="Детские каналы",Карусель
+https://s209.glaz.tv:8082/liveg/karusel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA0OjI0OjE2IFBNJmhhc2hfdmFsdWU9ZnZkc1hPWUlTUGpZc1lneFdyYjhEUT09JnZhbGlkbWludXRlcz0yMDA=
+
+
+#EXTINF:-1 tvg-id="vox" tvg-name="VOX" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png" group-title="Немецкие каналы",VOX
+https://s6.hopslan.com/voxz/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" group-title="Немецкие каналы",RTL
+https://s6.hopslan.com/rtl1/index.m3u8
+
+#EXTINF:-1 tvg-id="sat 1" tvg-name="Sat 1" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/250px-Neues_Sat._1_Logo_transparent.png" group-title="Немецкие каналы",Sat 1
+https://s6.hopslan.com/sat1z/index.m3u8
+
+#EXTINF:-1 tvg-id="zdf" tvg-name="ZDF" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/330px-ZDF_logo.svg.png" group-title="Немецкие каналы",ZDF
+https://s6.hopslan.com/zdfX1/index.m3u8
+
+#EXTINF:-1 tvg-id="pro 7" tvg-name="Pro 7" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/250px-ProSieben_Logo_2015.svg.png" group-title="Немецкие каналы",Pro 7
+https://s6.hopslan.com/pro7z/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy central" tvg-name="Comedy Central" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/330px-Comedy_Central_2018.svg.png" group-title="Немецкие каналы",Comedy Central
+https://s6.hopslan.com/vivaX/index.m3u8
+
+#EXTINF:-1 tvg-id="super rtl" tvg-name="Super RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/330px-Super_RTL_Logo_orange_2019.svg.png" group-title="Немецкие каналы",Super RTL
+https://s6.hopslan.com/superX/index.m3u8
+
+#EXTINF:-1 tvg-id="disney channel" tvg-name="Disney Channel" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png" group-title="Немецкие каналы",Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
